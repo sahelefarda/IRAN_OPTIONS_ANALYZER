@@ -121,5 +121,5 @@ If you encounter any issues not covered in this guide, please contact support wi
 - F5: Calculate Strategy Metrics
 - Ctrl+Q: Exit
 
-## Acknowledgments
-This application uses the Black-Scholes model for options pricing and Greeks calculations. It is designed specifically for options traders in the Iranian market with a focus on gamma analysis and strategy visualization.
+سلب مسؤلیت:
+این پروژه جهت توسعه نرم افزار مدیریت معاملات و موقعیت های اختیار معامله در بازار بورس ایران است و هر گونه استفاده واقعی از خروجی آن با مسولیت خود کاربر می باشد.
